@@ -20,17 +20,17 @@ playButton.addEventListener('click', () => {
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
     { text: "Asi que voy a amarte cada noche...", time: 0 }, // Cambié a 0
-    { text: "como si fuera la ultima noche", time: 2 }, // Cambié a 2
+    { text: "como si fuera la ultima noche.", time: 2 }, // Cambié a 2
     { text: "Si el mundo se acabara...", time: 5 }, // Cambié a 5
     { text: "quisiera estar...", time: 8 }, // Cambié a 8
     { text: "A tu lado.", time: 10 }, // Sin cambio
     { text: "Si la fiesta se terminara...", time: 15 }, // Cambié a 15
     { text: "y nuestro tiempo en la tierra...", time: 17 }, // Sin cambio
-    { text: "se acabara", time: 20 }, // Cambié a 20
+    { text: "se acabara.", time: 20 }, // Cambié a 20
     { text: "Quisiera abrazarte...", time: 24 }, // Cambié a 24
-    { text: "Solo por un momento", time: 26 }, // Sin cambio
+    { text: "Solo por un momento🥺", time: 26 }, // Sin cambio
     { text: "Y morir", time: 28 }, // Sin cambio
-    { text: "con una sonrisa.", time: 31 }, // Cambié a 31
+    { text: "con una sonrisa.🥰", time: 31 }, // Cambié a 31
 ];
 
 // Animar las letras
